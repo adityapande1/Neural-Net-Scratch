@@ -1,4 +1,4 @@
-## Assignment1
+## ABOUT 
 - Implement BP (using any existing tool/platform not allowed)
 - Think of the correct architecture for Palindrome
 - Train a feedforward n/w for solving the 10-bit palindrome problem (input- bit strings of 1 and 0); there will be 1024 input strings labeled 1 (if the string is Palindrome) and 0 (non-P)
@@ -7,7 +7,7 @@ Measure Precision
 - Find out what the hidden layer neurons are doing (VIMP)
 
 ### Main file
-cs772_assignment1_final.ipynb
+final.ipynb
 - run on google colab
 - most of things are expain in this file
 
